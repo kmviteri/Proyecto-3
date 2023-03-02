@@ -10,6 +10,16 @@ Comprender y analizar el funcionamiento y utilidad del circuito de un mini ampli
 ## OBJETIVOS ESPECIFICOS
 * Armar el circuito de un mini amplificador de sonido mediante el implemento de los componentes mencionados en el material audiovisual proporcionado.
 * Visualizar y poner a prueba el resultado obtenido, mediante el uso correcto de los componentes involucrados, para comprobar su buen funcionamiento.
+# 2. MARCO TEORICO
+
+
+
+
+
+
+
+
+
 * # 3. PROCEDIMIENTO Y ESQUEMAS
 Prara este circuito se requerira de los siguentes componentes:
 * Una protoboard 
@@ -21,6 +31,7 @@ Prara este circuito se requerira de los siguentes componentes:
 * Un plug cable
 * Un condensador de 220uF a 16v
 * Parlante de 8 ohm 2 watts
+
 Se procedera a especificar de manera practica el procedimiento de armado e instalacion del circuito:
 * en la protoboard en un nodo conectaremos el positivo del circuito y en otro nodo el negativo, colocamos el integrado con la pequeña ranura viendo hacia la izquierda.
 * Hacer un puente desde la pata 2 hasta la pata 4 del integrado.
@@ -32,9 +43,28 @@ Se procedera a especificar de manera practica el procedimiento de armado e insta
 * Conectamos los parlantes un cable del parlante a la pata negativa del condensador y el otro cable del parlante a la pata 4 del integrado.
 * Finalmente conectar la batería y probar nuestro amplificador de sonido conectaremos positivo de la batería al positivo del circuito y negativo al negativo y conectamos un reproductor de audio.
 
+ ## ESQUEMA E IMAGENES
+ 
+ ![IMG-20230301-WA0757 (2)](https://user-images.githubusercontent.com/117187676/222335681-2e8c4410-3bfb-452b-9ef6-81790556b925.jpg)
+
+![IMG-20230301-WA0755](https://user-images.githubusercontent.com/117187676/222335888-1235a5b0-dd8d-4146-887c-6b770051eb5f.jpg)
+
+![IMG-20230301-WA0756](https://user-images.githubusercontent.com/117187676/222335899-a3a1b1d0-d2e4-4ea5-94f9-873941044cba.jpg)
+
+# 4. VIDEO
+
+https://youtu.be/Y-xJzV0yY6k
+
+# 5. CONCLUSIONES
+
+* Se puede concluir que, gracias a el seguimiento de las instrucciones y los pasos mostrados en el video proporcionado, se pudo lograr un resultado efectivo, demostrando asi el funcionaciemto y proposito del circuito.
+
+* En conclusion, el uso de los diferentes compnentes electronicos empleados en la realizacion del circuito, se basa en las distintas funciones de cada uno de ellos, por lo que con una investigacion cinetifica y empirica se logro los resultados esperados.
 
 
+# 6. BIBLIOGRAFIA
 
+* Martín Pereda, J. A., & Rodríguez Rodríguez, T. (1978). Componentes electrónicos. Departamento de Publicaciones, Escuela Técnica Superior de Ingenieros de Telecomunicación.
 
 
 
